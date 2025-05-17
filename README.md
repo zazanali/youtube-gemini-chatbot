@@ -36,7 +36,7 @@ An AI-powered Streamlit application that allows users to interact with any YouTu
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/zazanali/youtube-gemini-chatbot
+git clone https://github.com/zazanali/youtube-gemini-chatbot.git
 cd youtube-gemini-chatbot
 ```
 
