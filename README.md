@@ -26,6 +26,7 @@ An AI-powered Streamlit application that allows users to interact with any YouTu
 ├── ingestion.py         # Transcript fetching (assumed module)
 ├── retrieval_chain.py   # Gemini RAG chain builder (assumed module)
 ├── .env                 # Environment file containing API key
+├── requirements.txt     # All required libraries to install
 ```
 
 ---
